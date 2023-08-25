@@ -21,7 +21,9 @@ The graph has a very strong correlation of R2 = 0.977, which means that the GDP 
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image5.png?raw=true)
 The GDP vs HDI graph residual
 There seems to be 4 outliers (the last three dots on the right, and the highest point on the left of the graph). Correlation can be enhanced by removing Norway, Ireland, Luxembourg, and Sri Lanka from the graph.
+
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image6.png?raw=true)
+
 After excluding the outliers, the graph has an even stronger correlation of R2 = 0.854. Removing the 4 points out of 71 (5.63% of data) seems like a reasonable amount of data to be removed from the graph.
 Conclusion
 Based on data from the GDP vs HDI graph from 1990 - 2021, the HDI increases as GDP increases until it reaches an optimum, then the GDP no longer affects the HDI as much as it did and it even is decreasing (according to the predicted graph). Removing the outliers re-emphasize that same pattern mentioned, which implies that this phenomenon is potentially true. One issue with that claim is that the actual HDI is not decreasing at all even after removing the outliers. If there was more time to analyze the data, a regression line would be graphed separately with the highest GDP countries. This would have helped clear up the discrepancy of the HDI not really decreasing but the regression curve implies the opposite 
