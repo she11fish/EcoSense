@@ -1,4 +1,4 @@
-﻿﻿# Can GDP cause the HDI to Increase?
+﻿# Can GDP cause the HDI to Increase?
 Hypothesis
 As Gross Domestic Product (GDP) increases, the Health Development Index (HDI) will increase as well. This should apply globally.
 Secondary Data Collection and Analysis The following data was collected from Statistics Data sources from Human Development Reports (https://hdr.undp.org/data-center/documentation-and-downloads) and Kaggle (https://www.kaggle.com/datasets/yapwh1208/countries-gdp-2012-to-2021).
