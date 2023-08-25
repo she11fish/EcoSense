@@ -22,7 +22,9 @@ The graph has a very strong correlation of R2 = 0.977, which means that the GDP 
 The GDP vs HDI graph residual
 There seems to be 4 outliers (the last three dots on the right, and the highest point on the left of the graph). Correlation can be enhanced by removing Norway, Ireland, Luxembourg, and Sri Lanka from the graph.
 
+
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image6.png?raw=true)
+
 
 After excluding the outliers, the graph has an even stronger correlation of R2 = 0.854. Removing the 4 points out of 71 (5.63% of data) seems like a reasonable amount of data to be removed from the graph.
 Conclusion
