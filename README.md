@@ -5,20 +5,29 @@ Secondary Data Collection and Analysis The following data was collected from Sta
 
 Disclaimer:  whenever 1990-2021 is mentioned for HDI and GDP, those years are actually 1990, 2000, 2010, 2015, 2018, 2019, 2020, and 2021.
 
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image1.png?raw=true)
+
 The graph above shows a strong correlation (R2 = 0.777) from 1990-2021.
 Interestingly, the higher the GDP, the higher the HDI the country experiences on average until it reaches an optimum. After that optimum, the HDI, according to the predicted line, is lowered. However, the actual HDI on the graph increases as the GDP increases.
 
-
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image2.png?raw=true)
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image3.png?raw=true)
 
 Since both of GDP and HDI are increasing, then the GDP vs HDI graph should normally increase (especially when the HDI graph has R = 0.9915 and GDP graph has R = 0.9783)
 
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image4.png?raw=true)
 Full GDP data graphed (1960 to 2020)
 The graph has a very strong correlation of R2 = 0.977, which means that the GDP increases for every country on average per year
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image5.png?raw=true)
 The GDP vs HDI graph residual
 There seems to be 4 outliers (the last three dots on the right, and the highest point on the left of the graph). Correlation can be enhanced by removing Norway, Ireland, Luxembourg, and Sri Lanka from the graph.
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image6.png?raw=true)
 After excluding the outliers, the graph has an even stronger correlation of R2 = 0.854. Removing the 4 points out of 71 (5.63% of data) seems like a reasonable amount of data to be removed from the graph.
 Conclusion
 Based on data from the GDP vs HDI graph from 1990 - 2021, the HDI increases as GDP increases until it reaches an optimum, then the GDP no longer affects the HDI as much as it did and it even is decreasing (according to the predicted graph). Removing the outliers re-emphasize that same pattern mentioned, which implies that this phenomenon is potentially true. One issue with that claim is that the actual HDI is not decreasing at all even after removing the outliers. If there was more time to analyze the data, a regression line would be graphed separately with the highest GDP countries. This would have helped clear up the discrepancy of the HDI not really decreasing but the regression curve implies the opposite 
+
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image7.png?raw=true)
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image9.png?raw=true)
 
 
 the United Nations Development Programme (UNDP) methodology behind finding the HDI
@@ -47,36 +56,10 @@ Countries GDP 1960 to 2021. (2023, April 21). Kaggle. https://www.kaggle.com/dat
 
 Appendix:
 
-Info
-GDP
-HDI
-count
-71
-71
-mean
-15374.50576
-0.6933028169
-std
-20770.27162
-0.1654110645
-min
-217.8992038
-0.34975
-25%
-1381.632694
-0.548625
-50%
-5158.595751
-0.709375
-75%
-30388.23257
-0.894875
-max
-97355.25725
-0.936
-median
-5158.595751
-0.709375
-
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image13.png?raw=true)
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image8.png?raw=true)
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image10.png?raw=true)
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image11.png?raw=true)
+![alt text](https://github.com/she11fish/GrowthLink/blob/main/image12.png?raw=true)
 
 
