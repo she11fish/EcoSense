@@ -1,4 +1,4 @@
-﻿# Can GDP cause the HDI to Increase?
+﻿﻿# Can GDP cause the HDI to Increase?
 Hypothesis
 As Gross Domestic Product (GDP) increases, the Health Development Index (HDI) will increase as well. This should apply globally.
 Secondary Data Collection and Analysis The following data was collected from Statistics Data sources from Human Development Reports (https://hdr.undp.org/data-center/documentation-and-downloads) and Kaggle (https://www.kaggle.com/datasets/yapwh1208/countries-gdp-2012-to-2021).
@@ -16,8 +16,10 @@ Interestingly, the higher the GDP, the higher the HDI the country experiences on
 Since both of GDP and HDI are increasing, then the GDP vs HDI graph should normally increase (especially when the HDI graph has R = 0.9915 and GDP graph has R = 0.9783)
 
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image4.png?raw=true)
+
 Full GDP data graphed (1960 to 2020)
 The graph has a very strong correlation of R2 = 0.977, which means that the GDP increases for every country on average per year
+
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image5.png?raw=true)
 The GDP vs HDI graph residual
 There seems to be 4 outliers (the last three dots on the right, and the highest point on the left of the graph). Correlation can be enhanced by removing Norway, Ireland, Luxembourg, and Sri Lanka from the graph.
@@ -47,23 +49,19 @@ Overall, the data seems to be indicative of the hypothesis claimed that “Gross
 
 
 References
+
 Indicator Metadata Registry Details. (n.d.). https://www.who.int/data/gho/indicator-metadata-registry/imr-details/3355#:~:text=Gross%20National%20Income%20(GNI)%20per,its%20population%20using%20Atlas%20methodology.
 Wikipedia contributors. (2023). Gross national income. Wikipedia. https://en.wikipedia.org/wiki/Gross_national_income
 United Nations. (n.d.). Documentation and downloads. Human Development Reports. https://hdr.undp.org/data-center/documentation-and-downloads
 Countries GDP 1960 to 2021. (2023, April 21). Kaggle. https://www.kaggle.com/datasets/yapwh1208/countries-gdp-2012-to-2021
-
-‌
-
-‌
 
 
 
 Appendix:
 
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image13.png?raw=true)
+
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image8.png?raw=true)
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image10.png?raw=true)
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image11.png?raw=true)
 ![alt text](https://github.com/she11fish/GrowthLink/blob/main/img/image12.png?raw=true)
-
-
